@@ -1,6 +1,6 @@
-Barbarossa
+-------------- Barbarossa -------------
 The definitive index for privacy, media, and freedom.
-
+------------------------------------------------------
 # 📚  Beginners Guide
 
 **A Guide for Beginners + FAQs**
@@ -71,7 +71,7 @@ The definitive index for privacy, media, and freedom.
 ***
 ***
 
-# [🔧 Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/tools-index)
+# [🔧 Tools]
 
 **Internet Tools, System Tools, Audio Tools, Video Tools**
 
@@ -121,22 +121,14 @@ The definitive index for privacy, media, and freedom.
 # [💬 Discord](https://discord.gg/b3sjMcWt8Y)
 
 **Chat, Get Help, Suggest Sites**
-
 ***
 ***
 
-# [➕️ More Sections](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/more-sections)
-
-***
-***
-
-**[Search Barbarossa](https://redd.it/105xraz)** - Search the Entire Wiki
+**[Search Barbarossa](https://barbarossa-indexes.netlify.app/)** - Search the Entire Wiki
 
 **Edit Barbarossa** - Make Changes to the Wiki
 
 **Selfhost Barbarossa** - Barbarossa Selfhosting Guide
-
-**[Site Hunting Guide](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/find-new-sites)** - Help Find New Sites
 
 ***
 ***
