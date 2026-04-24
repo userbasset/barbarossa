@@ -1,6 +1,6 @@
--------------- Barbarossa -------------
-The definitive index for privacy, media, and freedom.
-------------------------------------------------------
+Barbarossa is The definitive index for privacy, media, and freedom.
+Currently indexing 469+ verified tools & websites
+
 # 📚  Beginners Guide
 
 **A Guide for Beginners + FAQs**
